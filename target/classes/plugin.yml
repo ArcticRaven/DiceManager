@@ -1,0 +1,11 @@
+name: RollManager
+version: 0.1
+main: dev.arcticgaming.Main
+api-version: 1.17
+authors: [ ArcticDev_ ]
+description: Crypts and Creepers early Dice Management Plugin
+commands:
+  roll:
+    description: Makes game roll dice
+    usage: /roll <number of dice> d<number of faces> <optional:modifier>
+
